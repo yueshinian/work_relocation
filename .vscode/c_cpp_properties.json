@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yz/catkin_ws/relocation_origin/devel/include",
+                "/home/yz/catkin_ws/carto_ros/install_isolated/include",
+                "/opt/ros/melodic/include",
+                "/home/yz/catkin_ws/relocation_origin/src/fast_gicp/include",
+                "/home/yz/catkin_ws/relocation_origin/src/hdl_global_localization/include",
+                "/home/yz/catkin_ws/relocation_origin/src/hdl_localization/include",
+                "/home/yz/catkin_ws/relocation_origin/src/ndt_omp/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
